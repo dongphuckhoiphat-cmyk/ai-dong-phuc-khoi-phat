@@ -1,0 +1,5 @@
+{
+  "name": "[Doanh Nghiệp] Ai Tạo Ảnh",
+  "description": "Ứng Dụng Tạo Mẫu Ảnh AI Chụp PhotoBook. Tải ảnh lên và viết mô tả  để nhận kết quả. Kết quả ưng ý hay không là do bạn.",
+  "requestFramePermissions": []
+}
